@@ -1,0 +1,54 @@
+
+@media only screen and (max-width: 900px) {
+    .change
+    {
+        height: 50vw!important;
+    }
+}
+
+.header
+{
+  background-color: #220e19;
+}
+
+.card:hover
+{
+    height: 101%;
+    width: 101%;
+    box-shadow: 0px 0px 15px rgb(221, 187, 146);
+}
+.bt-style
+{
+    color:#be886b;
+  border:2px solid #be886b;
+  width:150%;
+  height: 2.5em;
+}
+.bt-style:hover{
+  background-color: rgb(221, 187, 146);
+  color:white;
+}
+.resize
+{
+  width: 80%;
+}
+.text
+{
+  font-family:Arial, Helvetica, sans-serif !important;
+}
+
+footer
+{
+    width: 100%;
+    background-color: #fef3de;
+    color: #984d65;
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+}
+.bottomspace{
+    /* visibility: hidden; */
+     height: 21vw;
+     /* border:2px solid red; */
+}
+

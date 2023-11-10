@@ -1,0 +1,48 @@
+
+.header
+{
+  background-color: #220e19;
+}
+
+.card:hover
+{
+    height: 101%;
+    width: 101%;
+    box-shadow: 0px 0px 15px rgb(221, 187, 146);
+}
+.bt-style
+{
+  color:#be886b;
+  border:2px solid #be886b;
+  width:150%;
+  height: 2.5em;
+}
+.bt-style:hover{
+  background-color: rgb(221, 187, 146);
+  color:white;
+}
+.resize
+{
+  width: 80%;
+}
+
+
+footer
+{
+    width: 100%;
+    background-color: #fef3de;
+    color: #984d65;
+}
+
+.ft
+{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+}
+
+.hidden
+{
+    /* visibility: hidden; */
+    height:26vw;
+}
